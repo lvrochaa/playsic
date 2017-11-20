@@ -1,0 +1,23 @@
+.album-card_img{
+    position: relative;
+    background: #171819;
+    height: 250px;
+}
+
+.a-coluna {
+    float: left;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+.a-card {
+    margin-bottom: 30px;
+    border-top: 1px solid #18191a;
+    padding-top: 20px;
+}
+
+.a-25 {
+    width: 25%;
+}
